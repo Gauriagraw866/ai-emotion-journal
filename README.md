@@ -1,6 +1,3 @@
-## 🌍 Live Demo
-- Frontend: [ai-emotion-journal.netlify.app](https://ai-emotion-journal.netlify.app)
-- Backend API: [ai-emotion-journal-backend.onrender.com](https://ai-emotion-journal-backend.onrender.com)
 
 # 🧠 AI Emotion Journal
 
