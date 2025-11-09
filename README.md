@@ -10,71 +10,33 @@
 An intelligent and visually vibrant web application that allows users to **record their daily thoughts** through **text or voice**, and uses **AI-based sentiment analysis** to determine and visualize their **emotional trends** over time.  
 
 ---
-
-## 🚀 Features
-
-✅ **Text & Voice Input** — Journal your mood by typing or speaking  
-✅ **AI Sentiment Analysis** — Detects emotions as *Happy*, *Sad*, or *Neutral*  
-✅ **Interactive Emotion Graph** — Visualizes daily emotion trends  
-✅ **MongoDB Storage** — Securely saves user entries  
-✅ **Real-time Toast Notifications** — For success/error feedback  
-✅ **Gradient UI with Glassmorphism** — Modern, soft, and colorful interface  
-✅ **Responsive Design** — Works smoothly on mobile & desktop  
-✅ **Fast & Lightweight Backend** — Flask + NLTK (VADER sentiment)  
+## 🧠 Features
+- 🗣️ Write or speak your thoughts
+- 🤖 AI-powered emotion analysis (Happy, Sad, Angry, Neutral, etc.)
+- 📈 Real-time emotion visualization with charts
+- ☁️ Persistent storage using MongoDB Atlas
+- 🧾 Modern responsive UI (React + TailwindCSS)
 
 ---
 
-## 🧩 Tech Stack
-
-| Layer | Technology Used |
-|-------|------------------|
-| **Frontend** | React.js, Tailwind CSS, Axios, Chart.js, React Toastify |
-| **Backend** | Flask, Python, Flask-CORS, Threading for async NLP |
-| **Database** | MongoDB Atlas |
-| **AI / NLP** | NLTK’s VADER Sentiment Analyzer |
-| **Speech** | Web Speech API (Browser-based Speech-to-Text) |
+## 🛠️ Tech Stack
+**Frontend:** React.js, TailwindCSS, Recharts  
+**Backend:** Flask, Flask-CORS, MongoDB, TextBlob  
+**Hosting:** Netlify (Frontend), Render (Backend)
 
 ---
 
-## 📁 Project Structure
+## 💻 Setup (Local)
+```bash
+# Backend setup
+cd backend
+pip install -r requirements.txt
+python app.py
 
-ai-emotion-journal/
-│
-├── backend/
-│ ├── app.py
-│ ├── config.py
-│ ├── requirements.txt
-│ ├── routes/
-│ │ └── journal_routes.py
-│ ├── utils/
-│ │ └── sentiment_analyzer.py
-│ └── README.md
-│
-├── frontend/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── api.js
-│ │ ├── index.js
-│ │ ├── index.css
-│ │ ├── pages/
-│ │ │ └── Dashboard.jsx
-│ │ ├── components/
-│ │ │ ├── JournalForm.jsx
-│ │ │ ├── EmotionChart.jsx
-│ │ │ └── EntryList.jsx
-│ │ └── assets/
-│ │ ├── happy.png
-│ │ ├── sad.png
-│ │ ├── neutral.png
-│ │ └── header.png
-│ ├── tailwind.config.js
-│ ├── package.json
-│ └── README.md
-│
-└── README.md
-
-
----
+# Frontend setup
+cd ../frontend
+npm install
+npm start
 
 ## ⚙️ Installation & Setup
 
