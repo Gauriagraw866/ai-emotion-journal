@@ -1,3 +1,7 @@
+## 🌍 Live Demo
+- Frontend: [ai-emotion-journal.netlify.app](https://ai-emotion-journal.netlify.app)
+- Backend API: [ai-emotion-journal-backend.onrender.com](https://ai-emotion-journal-backend.onrender.com)
+
 # 🧠 AI Emotion Journal
 
 An intelligent and visually vibrant web application that allows users to **record their daily thoughts** through **text or voice**, and uses **AI-based sentiment analysis** to determine and visualize their **emotional trends** over time.  
