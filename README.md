@@ -1,6 +1,5 @@
 ## 🖼️ Preview
-<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/cec88e1f-c81c-42e8-b5a4-8b79bf8a4dff" />
-
+<img width="1275" height="846" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/8a681d4e-2fd1-4d68-aea0-15cdac82fda2" />
 
 ## 🚀 Live Demo
 
