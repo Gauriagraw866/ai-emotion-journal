@@ -1,3 +1,7 @@
+## 🖼️ Preview
+
+![AI Emotion Journal Screenshot](./assets/screenshot28.png)
+
 ## 🚀 Live Demo
 
 - 🎨 **Frontend (React + Tailwind)**:  
