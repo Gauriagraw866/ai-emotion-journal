@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://ai-emotion-journal-backend.onrender.com/api/journal";
+const API_BASE_URL = "https://ai-emotion-journal.onrender.com/api/journal";
 
 export const addJournalEntry = async (text) => {
   const response = await axios.post(`${API_BASE_URL}/add`, { text });
