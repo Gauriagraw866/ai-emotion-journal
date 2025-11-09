@@ -1,3 +1,7 @@
+## 🖼️ Preview
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/cec88e1f-c81c-42e8-b5a4-8b79bf8a4dff" />
+
+
 ## 🚀 Live Demo
 
 - 🎨 **Frontend (React + Tailwind)**:  
