@@ -1,4 +1,10 @@
+## 🚀 Live Demo
 
+- 🎨 **Frontend (React + Tailwind)**:  
+  [https://aiemotiontracker.netlify.app](https://aiemotiontracker.netlify.app/)
+
+- ⚙️ **Backend API (Flask + MongoDB)**:  
+  [https://ai-emotion-journal-backend.onrender.com](https://ai-emotion-journal.onrender.com)
 # 🧠 AI Emotion Journal
 
 An intelligent and visually vibrant web application that allows users to **record their daily thoughts** through **text or voice**, and uses **AI-based sentiment analysis** to determine and visualize their **emotional trends** over time.  
